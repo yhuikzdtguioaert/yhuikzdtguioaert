@@ -14,6 +14,7 @@ include regression coverage when the project has a suitable test seam.
 - [Obelisk #69](https://github.com/tommy0103/obelisk/pull/69) — remove Kimi injection messages that fall inside an undone transcript range.
 - [MoonDownloader #169](https://github.com/LeyckerS/moondownloader/pull/169) — explain the effective datanodes ceiling from extractor and page limits, with regression coverage.
 - [Solid Primitives #1015](https://github.com/solidjs-community/solid-primitives/pull/1015) — pass reactive custom props through `MultiProvider` while preserving ordinary context value semantics.
+- [Rod #1240](https://github.com/go-rod/rod/pull/1240) — avoid returning a stale JavaScript helper after a concurrent context reset.
 
 ## Working approach
 
