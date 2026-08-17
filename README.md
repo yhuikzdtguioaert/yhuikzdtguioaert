@@ -13,6 +13,7 @@ include regression coverage when the project has a suitable test seam.
 - [FTW baselines #273](https://github.com/fieldsoftheworld/ftw-baselines/pull/273) — make geographic polygon simplification, morphology, and area filtering metre-safe.
 - [Obelisk #69](https://github.com/tommy0103/obelisk/pull/69) — remove Kimi injection messages that fall inside an undone transcript range.
 - [MoonDownloader #169](https://github.com/LeyckerS/moondownloader/pull/169) — explain the effective datanodes ceiling from extractor and page limits, with regression coverage.
+- [Solid Primitives #1015](https://github.com/solidjs-community/solid-primitives/pull/1015) — pass reactive custom props through `MultiProvider` while preserving ordinary context value semantics.
 
 ## Working approach
 
