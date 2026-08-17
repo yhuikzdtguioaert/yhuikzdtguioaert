@@ -11,6 +11,7 @@ include regression coverage when the project has a suitable test seam.
 - [lookit #162](https://github.com/jonathandeamer/lookit/pull/162) — scroll repeated links to the focused rendered occurrence, with regressions.
 - [Telegram Desktop #31149](https://github.com/telegramdesktop/tdesktop/pull/31149) — keep an empty global-search field focused on Backspace.
 - [FTW baselines #273](https://github.com/fieldsoftheworld/ftw-baselines/pull/273) — make geographic polygon simplification, morphology, and area filtering metre-safe.
+- [Obelisk #69](https://github.com/tommy0103/obelisk/pull/69) — remove Kimi injection messages that fall inside an undone transcript range.
 
 ## Working approach
 
