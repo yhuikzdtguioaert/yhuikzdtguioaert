@@ -12,6 +12,7 @@ include regression coverage when the project has a suitable test seam.
 - [Telegram Desktop #31149](https://github.com/telegramdesktop/tdesktop/pull/31149) — keep an empty global-search field focused on Backspace.
 - [FTW baselines #273](https://github.com/fieldsoftheworld/ftw-baselines/pull/273) — make geographic polygon simplification, morphology, and area filtering metre-safe.
 - [Obelisk #69](https://github.com/tommy0103/obelisk/pull/69) — remove Kimi injection messages that fall inside an undone transcript range.
+- [MoonDownloader #169](https://github.com/LeyckerS/moondownloader/pull/169) — explain the effective datanodes ceiling from extractor and page limits, with regression coverage.
 
 ## Working approach
 
