@@ -4,7 +4,7 @@ I contribute focused fixes to developer tools and desktop applications. I aim
 to keep changes small enough to review, explain the behavior being changed, and
 include regression coverage when the project has a suitable test seam.
 
-## Contributions under review
+## Where I'm helping out
 
 - [dotenvy #172](https://github.com/allan2/dotenvy/pull/172) — keep substitution disabled when configured off.
 - [pairing-bot #118](https://github.com/recursecenter/pairing-bot/pull/118) — simplify recurser cache updates around a single source of truth.
