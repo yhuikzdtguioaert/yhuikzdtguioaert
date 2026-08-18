@@ -12,11 +12,12 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=8FE3FF&center=true&vCenter=true&width=900&height=55&lines=Open-source+contributor+%2F%2F+precision+patches;Small+diffs.+Real+regression+tests.;Rust+%2F%2F+Go+%2F%2F+TypeScript+%2F%2F+Python+%2F%2F+C%2B%2B;Reproduce+%E2%86%92+fix+root+cause+%E2%86%92+verify" alt="typing tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=8FE3FF&center=true&vCenter=true&width=900&height=55&lines=Open-source+contributor+%2F%2F+precision+patches;Small+diffs.+Real+regression+tests.;Rust+%2F%2F+Go+%2F%2F+TypeScript+%2F%2F+JavaScript+%2F%2F+Python+%2F%2F+C%2B%2B;Reproduce+%E2%86%92+fix+root+cause+%E2%86%92+verify" alt="typing tagline" />
 
 <br/>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
