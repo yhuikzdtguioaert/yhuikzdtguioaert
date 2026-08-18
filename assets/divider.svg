@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 40" width="900" height="40" fill="none" role="img" aria-label="divider">
+  <defs>
+    <linearGradient id="ln" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8FE3FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#8FE3FF" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#8FE3FF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="gl" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="0.35" stop-color="#BFEFFF" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#8FE3FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- base ice line -->
+  <line x1="30" y1="20" x2="870" y2="20" stroke="url(#ln)" stroke-width="1.6"/>
+
+  <!-- center ice crystal -->
+  <g transform="translate(450 20)">
+    <rect x="-7" y="-7" width="14" height="14" fill="#0B0E17" stroke="#8FE3FF" stroke-width="1.3">
+      <animateTransform attributeName="transform" type="rotate" from="45" to="405" dur="14s" repeatCount="indefinite"/>
+    </rect>
+    <circle r="2.2" fill="#E23A54">
+      <animate attributeName="r" values="1.8;2.8;1.8" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- traveling glint -->
+  <circle cy="20" r="6" fill="url(#gl)">
+    <animate attributeName="cx" values="40;860;40" dur="6.5s" repeatCount="indefinite" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="6.5s" keyTimes="0;0.08;0.92;1" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- twinkling sparkles -->
+  <circle cx="180" cy="20" r="1.6" fill="#BFEFFF">
+    <animate attributeName="opacity" values="0.15;1;0.15" dur="3s" begin="0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="300" cy="20" r="1.4" fill="#F7B6C2">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.6s" begin="0.7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="600" cy="20" r="1.4" fill="#F7B6C2">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" begin="1.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="720" cy="20" r="1.6" fill="#BFEFFF">
+    <animate attributeName="opacity" values="0.15;1;0.15" dur="3.2s" begin="1.6s" repeatCount="indefinite"/>
+  </circle>
+</svg>
