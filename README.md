@@ -63,6 +63,7 @@ add regression coverage wherever a project has a suitable test seam.
 | **[yq #2821](https://github.com/mikefarah/yq/pull/2821)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) | Merging with null no longer clobbers the existing value. |
 | **[sd #352](https://github.com/chmln/sd/pull/352)** | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) | Stop `--across` mode duplicating output at a trailing newline. |
 | **[coverage.py #2269](https://github.com/coveragepy/coveragepy/pull/2269)** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Excluding an irrefutable `case` body now also excludes the `case` line. |
+| **[superstruct #1302](https://github.com/ianstormtaylor/superstruct/pull/1302)** | ![TypeScript](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | `optional()`/`nullable()` no longer crash on an absent `dynamic()` value. |
 
 </div>
 
