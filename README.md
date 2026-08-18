@@ -60,6 +60,8 @@ add regression coverage wherever a project has a suitable test seam.
 | **[Quicktype #3127](https://github.com/glideapps/quicktype/pull/3127)** | ![TypeScript](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Emit compilable TS index signatures for mixed declared + additional props. |
 | **[lo #977](https://github.com/samber/lo/pull/977)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) | Capitalize only upper-cases the first character, lower-casing the rest. |
 | **[jiff #641](https://github.com/BurntSushi/jiff/pull/641)** | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) | Report the `AT` field, not `NAME`, in zic's rule-parse error. |
+| **[yq #2821](https://github.com/mikefarah/yq/pull/2821)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) | Merging with null no longer clobbers the existing value. |
+| **[sd #352](https://github.com/chmln/sd/pull/352)** | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) | Stop `--across` mode duplicating output at a trailing newline. |
 
 </div>
 
