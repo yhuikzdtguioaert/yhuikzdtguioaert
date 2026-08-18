@@ -58,6 +58,7 @@ add regression coverage wherever a project has a suitable test seam.
 | **[Rod #1240](https://github.com/go-rod/rod/pull/1240)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) | Avoid returning a stale JS helper after a concurrent context reset. |
 | **[Jiti #460](https://github.com/unjs/jiti/pull/460)** | ![TypeScript](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Honor caller Stage-3 decorator transforms without the conflicting legacy one. |
 | **[Quicktype #3127](https://github.com/glideapps/quicktype/pull/3127)** | ![TypeScript](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Emit compilable TS index signatures for mixed declared + additional props. |
+| **[lo #977](https://github.com/samber/lo/pull/977)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) | Capitalize only upper-cases the first character, lower-casing the rest. |
 
 </div>
 
