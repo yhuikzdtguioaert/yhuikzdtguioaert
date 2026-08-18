@@ -67,6 +67,7 @@ add regression coverage wherever a project has a suitable test seam.
 | **[superstruct #1302](https://github.com/ianstormtaylor/superstruct/pull/1302)** | ![TypeScript](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | `optional()`/`nullable()` no longer crash on an absent `dynamic()` value. |
 | **[pulldown-cmark #1138](https://github.com/pulldown-cmark/pulldown-cmark/pull/1138)** | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) | Include the trailing `[]` in collapsed reference-link spans. |
 | **[picomatch #195](https://github.com/micromatch/picomatch/pull/195)** | ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Apply OS detection when called without an options object. |
+| **[dateparser #1368](https://github.com/scrapinghub/dateparser/pull/1368)** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Stop thousands separators truncating relative dates — `1,000 days ago` now means 1000 days, not 1. |
 
 </div>
 
