@@ -42,37 +42,6 @@ add regression coverage wherever a project has a suitable test seam.
 
 <img src="assets/divider.svg" width="100%" alt="───" />
 
-## ⚔️ Where I'm helping out
-
-<div align="center">
-
-| Pull request | Stack | What it does |
-| :--- | :---: | :--- |
-| **[dotenvy #172](https://github.com/allan2/dotenvy/pull/172)** | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) | Keep substitution disabled when configured off. |
-| **[pairing-bot #118](https://github.com/recursecenter/pairing-bot/pull/118)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) | Simplify recurser cache updates around a single source of truth. |
-| **[lookit #162](https://github.com/jonathandeamer/lookit/pull/162)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) | Scroll repeated links to the focused rendered occurrence, with regressions. |
-| **[Telegram Desktop #31149](https://github.com/telegramdesktop/tdesktop/pull/31149)** | ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) | Keep an empty global-search field focused on Backspace. |
-| **[FTW baselines #273](https://github.com/fieldsoftheworld/ftw-baselines/pull/273)** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Make polygon simplification, morphology & area filtering metre-safe. |
-| **[Obelisk #69](https://github.com/tommy0103/obelisk/pull/69)** | ![TypeScript](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Remove Kimi injection messages inside an undone transcript range. |
-| **[MoonDownloader #169](https://github.com/LeyckerS/moondownloader/pull/169)** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Explain the effective datanodes ceiling from extractor & page limits. |
-| **[Solid Primitives #1015](https://github.com/solidjs-community/solid-primitives/pull/1015)** | ![TypeScript](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Pass reactive custom props through `MultiProvider`, preserving context semantics. |
-| **[Rod #1240](https://github.com/go-rod/rod/pull/1240)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) | Avoid returning a stale JS helper after a concurrent context reset. |
-| **[Jiti #460](https://github.com/unjs/jiti/pull/460)** | ![TypeScript](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Honor caller Stage-3 decorator transforms without the conflicting legacy one. |
-| **[Quicktype #3127](https://github.com/glideapps/quicktype/pull/3127)** | ![TypeScript](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | Emit compilable TS index signatures for mixed declared + additional props. |
-| **[lo #977](https://github.com/samber/lo/pull/977)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) | Capitalize only upper-cases the first character, lower-casing the rest. |
-| **[jiff #641](https://github.com/BurntSushi/jiff/pull/641)** | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) | Report the `AT` field, not `NAME`, in zic's rule-parse error. |
-| **[yq #2821](https://github.com/mikefarah/yq/pull/2821)** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) | Merging with null no longer clobbers the existing value. |
-| **[sd #352](https://github.com/chmln/sd/pull/352)** | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) | Stop `--across` mode duplicating output at a trailing newline. |
-| **[coverage.py #2269](https://github.com/coveragepy/coveragepy/pull/2269)** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Excluding an irrefutable `case` body now also excludes the `case` line. |
-| **[superstruct #1302](https://github.com/ianstormtaylor/superstruct/pull/1302)** | ![TypeScript](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) | `optional()`/`nullable()` no longer crash on an absent `dynamic()` value. |
-| **[pulldown-cmark #1138](https://github.com/pulldown-cmark/pulldown-cmark/pull/1138)** | ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white) | Include the trailing `[]` in collapsed reference-link spans. |
-| **[picomatch #195](https://github.com/micromatch/picomatch/pull/195)** | ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Apply OS detection when called without an options object. |
-| **[dateparser #1368](https://github.com/scrapinghub/dateparser/pull/1368)** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Stop thousands separators truncating relative dates — `1,000 days ago` now means 1000 days, not 1. |
-
-</div>
-
-<img src="assets/divider.svg" width="100%" alt="───" />
-
 ## 🩸 Working approach
 
 - **Reproduce first** — characterize the behavior before touching a line.
